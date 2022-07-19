@@ -1,0 +1,11 @@
+.frame:hover {
+  color: seagreen;
+}
+@media screen and (max-width: 576px) {
+  .image-style {
+    width: 100%;
+  }
+  .welcome {
+    margin-top: 10px;
+  }
+}

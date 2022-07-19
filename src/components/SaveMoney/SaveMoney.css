@@ -1,0 +1,14 @@
+.free-shipping {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 90px;
+}
+
+@media screen and (max-width: 576px) {
+  .free-shipping {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .containers img {
+    width: 100%;
+  }
+}

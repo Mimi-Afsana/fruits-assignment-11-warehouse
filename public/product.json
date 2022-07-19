@@ -1,0 +1,110 @@
+[
+  {
+    "img": "https://i.ibb.co/SmykQVG/fresh-kiwi-fruit-isolated.jpg",
+    "itemname": "Kiwi",
+    "description": "Kiwi and other fruits provide a range of health benefits due to their nutritional contents. Kiwis are a good source of vitamin C, antioxidants, and fiber.\r\n",
+    "price": "$120",
+    "quantity": 35,
+    "sold": 11,
+    "name": "Vicky Kaushal"
+  },
+  {
+    "img": "https://i.ibb.co/sKzZ2hW/exotic-delicious-pomegranate-white-background.jpg",
+    "itemname": "Anar",
+    "description": "We are in paper trading and manufacturing business since 1892 and proud to export Product of Malaysia to more than 42 countries around the globe.\r\n",
+    "price": "$100",
+    "quantity": 27,
+    "sold": 5,
+    "name": "Tamra Stokes"
+  },
+  {
+    "img": "https://i.ibb.co/ng3dsQn/cantaloupe-melon-white.jpg",
+    "itemname": " Bangi",
+    "description": "Enjoy big discounts at up to 80% off, daily deals & wide assortments. Discover the Best Deals & Exclusive Offers on Your Favorite Brands & Products Here!\r\n",
+    "price": "$214",
+    "quantity": 25,
+    "sold": 10,
+    "name": "Abul Hossain"
+  },
+  {
+    "img": "https://i.ibb.co/d6TjnQZ/red-apple-basket.jpg",
+    "itemname": "Apple",
+    "description": "An apple is a sweet, edible fruit produced by an apple tree (Malus domestic). In France, it is the most consumed edible fruit and the third in the planet. \r\n",
+    "price": "$288",
+    "quantity": 30,
+    "sold": 10,
+    "name": "Jacky"
+  },
+  {
+    "img": "https://i.ibb.co/6Br0W1s/top-view-fresh-dragon-fruit-ready-be-served.jpg",
+    "itemname": "Dragon",
+    "description": "Dragon fruit, also known as pitahaya or strawberry pear, is a tropical fruit known for its vibrant red skin and sweet, seed-speckled pulp. Its unique look.\r\n",
+    "price": "$302",
+    "quantity": 28,
+    "sold": 6,
+    "name": "Alamin Hossen"
+  },
+  {
+    "img": "https://i.ibb.co/1GKsbZc/roman-kraft-b9w-Qv-EXJTFg-unsplash.jpg",
+    "itemname": "Plum",
+    "description": "A plum is a fruit of some species in Prunus subg. Prunus. Mature plum fruits may have a dusty-white waxy coating that gives them a glaucous appearance.\r\n",
+    "price": "$204",
+    "quantity": 28,
+    "sold": 7,
+    "name": "Sahadat Gilliam"
+  },
+  {
+    "img": "https://i.ibb.co/g321Gfs/alice-young-ZR1iw-Pjmb-Tc-unsplash.jpg",
+    "itemname": "Banana",
+    "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa..\r\n",
+    "price": "$144",
+    "quantity": 21,
+    "sold": 13,
+    "name": "Siddrat Shukhla"
+  },
+  {
+    "img": "https://i.ibb.co/hM9LP8n/nutrition-exotic-tasty-sweet-yellow.jpg",
+    "itemname": "Jack Fruit",
+    "description": "Jackfruit is a tropical tree fruit grown in Asia, Africa and South America. Under its thick, bumpy rind is a stringy flesh that you can eat raw or cooked in a variety of dishes.\r\n",
+    "price": "$333",
+    "quantity": 40,
+    "sold": 25,
+    "name": "Aisha Islam"
+  },
+  {
+    "img": "https://i.ibb.co/F6LZfjL/top-view-fresh-grapes-juicy-mellow-fruits-light-white-background-fruit-mellow-juicy-fresh.jpg",
+    "itemname": "Grapes",
+    "description": "Grapes contain powerful antioxidants known as polyphenols. These are thought to have anti-inflammatory and antioxidant properties. One of these is resveratrol.\r\n",
+    "price": "$120",
+    "quantity": 28,
+    "sold": 3,
+    "name": "Towhidul Islam"
+  },
+  {
+    "img": "https://i.ibb.co/8bLP5KG/mango-green-isolated-white-background.jpg",
+    "itemname": "Mango",
+    "description": "A mango is a popular tropical fruit that is eaten in sweet and savory dishes around the world. It can be green, yellow, orange, red.\r\n",
+    "price": "$277",
+    "quantity": 37,
+    "sold": 20,
+    "name": "Elisa Hasan"
+  },
+  {
+    "img": "https://i.ibb.co/4S53NQs/orange-juicy-ripe-circle-citrus.jpg",
+    "itemname": "Orange",
+    "description": "The orange is a usually round or oval citrus; its rind and flesh are generally orange. The edible part of the orange is the flesh, consumed in fresh or in juice.\r\n",
+    "price": "$105",
+    "quantity": 34,
+    "sold": 7,
+    "name": "Arifa Akter"
+  },
+  {
+    "img": "https://i.ibb.co/2FHH8RB/philippe-collard-QLVX4-LPe-A1-A-unsplash.jpg",
+    "itemname": "Watermelon",
+    "description": "It has an oval or spherical shape and a dark green and smooth rind, sometimes showing irregular areas of a pale green colour. It has a sweet, juicy, refreshing flesh.\r\n",
+    "price": "$199",
+    "quantity": 48,
+    "sold": 15,
+    "name": "Sana Khan"
+  }
+]

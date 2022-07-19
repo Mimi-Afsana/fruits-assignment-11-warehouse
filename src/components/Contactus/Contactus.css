@@ -1,0 +1,13 @@
+.contact-us {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+}
+.bottom-margin {
+  margin-bottom: 110px;
+}
+@media screen and (max-width: 576px) {
+  .contact-us {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

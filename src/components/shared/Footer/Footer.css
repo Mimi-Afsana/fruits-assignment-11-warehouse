@@ -1,0 +1,49 @@
+.background {
+  background-color: #0b5329;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.footer-margin {
+  margin: 20px;
+  margin-left: 200px;
+  margin-right: 00px;
+}
+.margin {
+  margin: 20px;
+  margin-left: 150px;
+}
+.margins {
+  margin: 20px;
+  margin-left: 0;
+}
+.copyright {
+  margin-top: 10px;
+}
+.copyrigh {
+  margin-top: 10px;
+}
+.none{
+  text-decoration: none;
+  color: beige;
+}
+@media screen and (max-width: 576px) {
+  .background {
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 10px;
+  }
+  .margins {
+    margin: 0px 0px;
+  }
+  .margin {
+    margin: 40px 20px;
+  }
+  .footer-margin {
+    margin: 40px;
+  }
+  .category {
+    margin-left: 40px;
+  }
+  .hours {
+    margin-right: 10px;
+  }
+}
